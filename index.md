@@ -13,3 +13,9 @@ contract SimpleContract {
         return "Hello, World!";
     }
 }
+```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] i think i have understood how to use markdown to create task list
+- [x] upto in the pr and issues
